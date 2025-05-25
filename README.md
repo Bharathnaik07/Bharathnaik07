@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Bharath Naik:
 I am currently studying MCA at AIT College.<br>I have a strong passion for programming and love building new things.<br>I’m always eager to learn and improve my skills in web development and software engineering.<br>I enjoy solving problems through code and exploring new technologies.<br>
 
 
