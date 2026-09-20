@@ -1,5 +1,5 @@
 # Hi, I'm Bharath Naik:
-MCAgraduate withastrong foundation in software development, full-stack web development, programming, and problem- solving.
+MCA graduate with a strong foundation in software development, full-stack web development, programming, and problem- solving.
 Skilled in Java, Python, JavaScript, React.js, Angular, PHP, FastAPI, MySQL, Docker, and REST APIs. Hands-on experience developing web applications, backend services, database-driven systems, and AI-assisted debugging solutions through software development internship and academic projects.<br>
 
 
