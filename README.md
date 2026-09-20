@@ -1,5 +1,6 @@
 # Hi, I'm Bharath Naik:
-I am currently studying MCA at AIT College.<br>I have a strong passion for programming and love building new things.<br>I’m always eager to learn and improve my skills in web development and software engineering.<br>I enjoy solving problems through code and exploring new technologies.<br>
+MCAgraduate withastrong foundation in software development, full-stack web development, programming, and problem- solving.
+Skilled in Java, Python, JavaScript, React.js, Angular, PHP, FastAPI, MySQL, Docker, and REST APIs. Hands-on experience developing web applications, backend services, database-driven systems, and AI-assisted debugging solutions through software development internship and academic projects.<br>
 
 
 ## 🌐 Socials:
